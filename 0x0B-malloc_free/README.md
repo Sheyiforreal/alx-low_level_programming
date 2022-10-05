@@ -3,4 +3,5 @@ a function that returns a pointer to a newly allocated space in memory, which co
  a function that concatenates two strings.
   a function that returns a pointer to a 2 dimensional array of integers
   a function that frees a 2 dimensional grid previously created by your alloc_grid function
-  
+  a function that concatenates all the arguments of your program
+  a function that splits a string into words.
